@@ -1,0 +1,36 @@
+{
+  "bandas": {
+    "BAN01": {
+      "id": "BAN01",
+      "name": "Iron Maiden",
+      "country": "UK",
+      "style": "Metal"
+    },
+    "BAN02": {
+      "id": "BAN02",
+      "name": "ACDC",
+      "country": "Australian",
+      "style": "Metal"
+    },
+    "BAN03": {
+      "id": "BAN03",
+      "name": "Raul Seixas",
+      "country": "Brazil",
+      "style": "Rock"
+    }
+  },
+  "pessoas": {
+    "bia": {
+      "id": "bia",
+      "nome": "Bia Soares"
+    },
+    "ana": {
+      "id": "ana",
+      "nome": "Ana Silva"
+    },
+    "joao": {
+      "id": "joao",
+      "name": "João Santos"
+    }
+  }
+}
