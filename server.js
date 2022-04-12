@@ -1,11 +1,12 @@
 
 import config from "config"
 import express from "express"
+import cors from "cors"
 
 // iniciando o express
 const app = express();
+app.use(cors());
 app.use(express.urlencoded({ extended: true }));
-
 
 // configurando as rotas
 import bandasRoute from "./routes/bandas.js"
